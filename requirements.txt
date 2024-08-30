@@ -1,0 +1,7 @@
+requests~=2.32.3
+fastapi
+sqlalchemy
+alembic
+pydantic
+python-dotenv
+toml
